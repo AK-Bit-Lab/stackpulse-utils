@@ -1,6 +1,6 @@
 {
   "name": "stackpulse-utils",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Utility functions for StackPulse ecosystem",
   "main": "index.js",
   "types": "index.d.ts",
@@ -17,8 +17,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AdekunleBamz/stackpulse-utils.git"
+    "url": "git+https://github.com/AdekunleBamz/StackPulse.git"
   },
+  "bugs": {
+    "url": "https://github.com/AdekunleBamz/StackPulse/issues"
+  },
+  "homepage": "https://github.com/AdekunleBamz/StackPulse#readme",
   "publishConfig": {
     "access": "public"
   }
